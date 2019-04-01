@@ -12,3 +12,4 @@ Checkpoint System captures faces and classifies them. User can access names of p
 - Deployed scripts on Raspberry Pi 3 with Pi NoIR camera. 
 
 This project was done with [Bekkasik](https://github.com/Bekkasik).
+Inspired with [https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826](this tutorial).
